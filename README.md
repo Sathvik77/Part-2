@@ -1,4 +1,4 @@
-# Part-2
+# Part 2 (Implementing Unit Test Using JUnit - JAVA Programming)
 CS612 Assignment 3
 
 CountTest.java will count how many times the letter 'A' will appear in a word (either capitialized or not) You can change the word inside of the test.count method and see if works with other words.
